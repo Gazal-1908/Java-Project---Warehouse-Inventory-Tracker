@@ -1,0 +1,5 @@
+Pink Dress,Clothes,10,500.0
+Tiramisu,Dessert,7,200.0
+Mango,Fruits,20,70.0
+Apples,Fruits,10,60.0
+Potato,Vegetables,50,10.0
